@@ -1,0 +1,6 @@
+name: Paintball
+main: com.mycompany.testplugin.Paintball
+version: 1.0.0
+api-version: 1.19
+author: Matthew_com
+description: Shoots a snowball when you right-click with a Paintball Gun
