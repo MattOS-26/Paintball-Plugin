@@ -1,6 +1,14 @@
-name: Paintball
-main: com.mycompany.testplugin.Paintball
+name: PaintZone
 version: 1.0.0
+main: com.mycompany.testplugin.PaintZone
 api-version: 1.19
-author: Matthew_com
-description: Shoots a snowball when you right-click with a Paintball Gun
+author: Matt
+description: Paint Zone minigame plugin
+
+commands:
+  pz:
+    description: Main PaintZone command
+    usage: /pz <args>
+  pzadmin:
+    description: PaintZone admin commands
+    usage: /pzadmin <args>

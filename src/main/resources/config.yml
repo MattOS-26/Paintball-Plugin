@@ -1,0 +1,26 @@
+general:
+  minPlayersToStart: 2
+  maxPerTeamDefault: 10
+  capturesToWin: 3
+  respawnDelaySeconds: 5
+  lobby:
+    world: ""
+    x: 0
+    y: 64
+    z: 0
+    yaw: 0
+    pitch: 0
+
+items:
+  join:
+    material: COMPASS
+    name: "&eArena Selector"
+  kit:
+    material: DIAMOND_SWORD
+    name: "&aKit Selector"
+
+messages:
+  outOfPaintballsCooldown: "&cYou are out of paintballs! Please wait {seconds} seconds!"
+  fragKillMessages:
+    - "{attacker} fragged {victim}"
+    - "{attacker} annihilated {victim}"

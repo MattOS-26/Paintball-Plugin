@@ -1,0 +1,30 @@
+kits:
+  Paintball:
+    item: DIAMOND_HOE
+    display_name: "Paintball Gun"
+    starting_shots: 16
+    refill_count: 16
+    refill_cooldown: 5
+    velocity: 1.5
+    spread: 0.0
+    pellets: 1
+
+  Sniper:
+    item: GOLDEN_HOE
+    display_name: "Sniper"
+    starting_shots: 5
+    refill_count: 3
+    refill_cooldown: 5
+    velocity: 3.0
+    spread: 0.0
+    pellets: 1
+
+  ShotGun:
+    item: GOLDEN_AXE
+    display_name: "Shot Gun"
+    starting_shots: 5
+    refill_count: 5
+    refill_cooldown: 5
+    velocity: 1.2
+    spread: 10.0
+    pellets: 5

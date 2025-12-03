@@ -1,1 +1,16 @@
-com/mycompany/testplugin/Paintball.class
+com/mycompany/testplugin/listeners/PlayerInteractListener$1.class
+com/mycompany/testplugin/listeners/PlayerInteractListener.class
+com/mycompany/testplugin/listeners/PlayerQuitListener.class
+com/mycompany/testplugin/listeners/InventoryClickListener.class
+com/mycompany/testplugin/kits/Kit.class
+com/mycompany/testplugin/arena/Arena.class
+com/mycompany/testplugin/arena/ArenaManager.class
+com/mycompany/testplugin/ItemManager.class
+com/mycompany/testplugin/listeners/PlayerDropListener.class
+com/mycompany/testplugin/gui/ArenaGUI.class
+com/mycompany/testplugin/listeners/PlayerChangedWorldListener.class
+com/mycompany/testplugin/PaintZone.class
+com/mycompany/testplugin/gui/KitGUI.class
+com/mycompany/testplugin/player/PZPlayer.class
+com/mycompany/testplugin/kits/KitManager.class
+com/mycompany/testplugin/commands/PZCommand.class
